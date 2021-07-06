@@ -1,13 +1,3 @@
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% (c) Akshay Gore                                              %
-% Department of Electronics and Communication Engineering      %
-% Chandigarh University, India                                 %
-% akshaygore@live.com										   %
-%                                                              %
-% To report your comment or any bug please send e-mail to:     %
-%   akshaygore@live.com	                                       %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 close all;
 clear;
 clc;
